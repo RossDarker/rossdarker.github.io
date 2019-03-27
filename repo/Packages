@@ -1,0 +1,32 @@
+Package: com.garagegames.marbleblastmobile
+Version: 1.2
+Section: Games
+Maintainer: RossDarker
+Depends: firmware (>= 2.2.1), firmware (<= 10.3.3)
+Architecture: iphoneos-arm
+Filename: Files//marbleblast/marbleblast.deb
+Size: 15199722
+Installed-Size: 32830947
+MD5sum: 9728333e7b0007c675266f54c4049872
+Description: Marble Blast Mobile
+Name: Marble Blast Mobile
+Author: GarageGames
+Depiction: https://rossdarker.github.io/repo/Files/marbleblast/index.html
+Icon: file:///Applications/MarbleBlastMobile.app/mbmIcon.png
+
+Package: com.rossdarker.kahootkiller
+Version: 1.0-Ross
+Section: Games
+Maintainer: RossDarker <rossdark3r@gmail.com>
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: Files//kk/kahootkiller.deb
+Size: 11433976
+Installed-Size: 40786997
+MD5sum: 36f3b7b2f835609974a78744442c02a4
+Description: Spam bots at kahoot.
+Name: Kahoot Killer
+Author: Nash0, RossDarker
+Depiction: https://rossdarker.github.io/repo/Files/kk/index.html
+Icon: file:///Applications/KahootKiller.app/AppIcon60x60@2x.png
+
