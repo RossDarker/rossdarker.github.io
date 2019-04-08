@@ -18,6 +18,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=colorSchemeMapping href="index.fld/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
@@ -695,6 +697,22 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-hansi-theme-font:minor-latin;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	mso-themecolor:hyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#954F72;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -820,14 +838,15 @@ ul
 <![endif]-->
 </head>
 
-<body lang=EN-GB style='tab-interval:36.0pt;text-justify-trim:punctuation'>
+<body lang=EN-GB link="#0563C1" vlink="#954F72" style='tab-interval:36.0pt;
+text-justify-trim:punctuation'>
 
 <div class=WordSection1>
 
 <p class=MsoNormal style='mso-pagination:none;tab-stops:28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
 mso-layout-grid-align:none;text-autospace:none'><u><span style='font-size:24.0pt;
-font-family:"Lucida Grande",sans-serif'>Timbuktu Pro on macOS High Sierra
-(10.13) and later<o:p></o:p></span></u></p>
+font-family:"Lucida Grande",sans-serif'>Timbuktu Pro on <span class=SpellE>macOS</span>
+High Sierra (10.13) and later<o:p></o:p></span></u></p>
 
 <p class=MsoNormal style='mso-pagination:none;tab-stops:28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
 mso-layout-grid-align:none;text-autospace:none'><u><span style='font-size:24.0pt;
@@ -835,13 +854,14 @@ font-family:"Lucida Grande",sans-serif'><o:p><span style='text-decoration:none'>
 
 <p class=MsoNormal style='mso-pagination:none;tab-stops:28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
 mso-layout-grid-align:none;text-autospace:none'><span style='font-size:18.0pt;
-font-family:"Lucida Grande",sans-serif'>With the release of macOS High Sierra,
-ScreenSaver.framework was updated. There was something in the framework which
-Timbuktu depended on, and so Timbuktu no longer functioned on High Sierra. I
-decide to dig a bit deeper into this, and that was when I noticed that it was
-ScreenSaver.framework causing the problem. The original fix was to replace the
-current framework with the one from Sierra, which did indeed fix Timbuktu Pro,
-but then the macOS Screen Saver no longer functioned.<o:p></o:p></span></p>
+font-family:"Lucida Grande",sans-serif'>With the release of <span class=SpellE>macOS</span>
+High Sierra, <span class=SpellE>ScreenSaver.framework</span> was updated. There
+was something in the framework which Timbuktu depended on, and so Timbuktu no
+longer functioned on High Sierra. I decide to dig a bit deeper into this, and
+that was when I noticed that it was <span class=SpellE>ScreenSaver.framework</span>
+causing the problem. The original fix was to replace the current framework with
+the one from Sierra, which did indeed fix Timbuktu Pro, but then the <span
+class=SpellE>macOS</span> Screen Saver no longer functioned.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-pagination:none;tab-stops:28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
 mso-layout-grid-align:none;text-autospace:none'><span style='font-size:18.0pt;
@@ -850,8 +870,7 @@ font-family:"Lucida Grande",sans-serif'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal style='mso-pagination:none;tab-stops:28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
 mso-layout-grid-align:none;text-autospace:none'><span style='font-size:18.0pt;
 font-family:"Lucida Grande",sans-serif'>When I had posted my discovery on a
-thread over at <a href="http://macos9lives.com/smforum/index.php/topic,4407"><span
-style='color:windowtext;text-decoration:none;text-underline:none'>http://macos9lives.com/smforum/index.php/topic,4407</span></a>,
+thread over at <a href="http://macos9lives.com/smforum/index.php/topic,4407">http://macos9lives.com/smforum/index.php/topic,4407</a>,
 some people followed through, and then had Timbuktu working on High Sierra.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-pagination:none;tab-stops:28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
@@ -862,11 +881,10 @@ font-family:"Lucida Grande",sans-serif'><o:p>&nbsp;</o:p></span></p>
 mso-layout-grid-align:none;text-autospace:none'><span style='font-size:18.0pt;
 font-family:"Lucida Grande",sans-serif'>Someone later on in the comments
 recommended a better way to solve the problem: <a
-href="http://macos9lives.com/smforum/index.php/topic,4407.msg32328.html#msg32328"><span
-style='color:windowtext;text-decoration:none;text-underline:none'>Re: Timbuktu
-DOES Work in High Sierra (10.13.X)</span></a>. This was to keep High Sierra’s
-ScreenSaver.framework, and just add Sierra’s in, but call it something else, as
-in changing 1 letter on the file name.<o:p></o:p></span></p>
+href="http://macos9lives.com/smforum/index.php/topic,4407.msg32328.html#msg32328">Re:
+Timbuktu DOES Work in High Sierra (10.13.X)</a>. This was to keep High Sierra’s
+<span class=SpellE>ScreenSaver.framework</span>, and just add Sierra’s in, but
+call it something else, as in changing 1 letter on the file name.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-pagination:none;tab-stops:28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
 mso-layout-grid-align:none;text-autospace:none'><span style='font-size:18.0pt;
@@ -876,9 +894,9 @@ font-family:"Lucida Grande",sans-serif'><o:p>&nbsp;</o:p></span></p>
 mso-layout-grid-align:none;text-autospace:none'><span style='font-size:18.0pt;
 font-family:"Lucida Grande",sans-serif'>I then went and tried this out, and now
 I’ve created an archive that contains: Timbuktu Pro (with an edited binary that
-links to Sierra’s framework), Sierra’s ScreenSaver.framework, and a very simple
-script to move the framework into the correct location that the binary calls
-for. This does work on Mojave too.<o:p></o:p></span></p>
+links to Sierra’s framework), Sierra’s <span class=SpellE>ScreenSaver.framework</span>,
+and a very simple script to move the framework into the correct location that the
+binary calls for. This does work on Mojave too.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-pagination:none;tab-stops:28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
 mso-layout-grid-align:none;text-autospace:none'><span style='font-size:18.0pt;
@@ -887,8 +905,7 @@ font-family:"Lucida Grande",sans-serif'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal style='mso-pagination:none;tab-stops:28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
 mso-layout-grid-align:none;text-autospace:none'><span style='font-size:18.0pt;
 font-family:"Lucida Grande",sans-serif'>You can download the archive from: <a
-href="https://drive.google.com/file/d/1bA7uIlceSpYMP1sNs9Hw2sagv23Gi8tr/view?usp=sharing"><span
-style='color:windowtext;text-decoration:none;text-underline:none'>https://drive.google.com/uc?id=1bA7uIlceSpYMP1sNs9Hw2sagv23Gi8tr&amp;export=download</span></a><o:p></o:p></span></p>
+href="https://drive.google.com/uc?id=1bA7uIlceSpYMP1sNs9Hw2sagv23Gi8tr&amp;export=download">https://drive.google.com/uc?id=1bA7uIlceSpYMP1sNs9Hw2sagv23Gi8tr&amp;export=download</a><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-36.0pt;mso-pagination:
 none;mso-list:l0 level1 lfo1;tab-stops:11.0pt 36.0pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
@@ -897,7 +914,7 @@ style='font-size:18.0pt;font-family:"Lucida Grande",sans-serif;mso-fareast-font-
 "Lucida Grande";mso-bidi-font-weight:bold'><span style='mso-list:Ignore'>•<span
 style='font:7.0pt "Times New Roman"'> </span></span></span><![endif]><span
 style='font-size:18.0pt;font-family:"Lucida Grande",sans-serif'>Open (double
-click on) <b>Patch.command<o:p></o:p></b></span></p>
+click on) <span class=SpellE><b>Patch.command</b></span><b><o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-36.0pt;mso-pagination:
 none;mso-list:l0 level1 lfo1;tab-stops:11.0pt 36.0pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
@@ -913,15 +930,14 @@ font-family:"Lucida Grande",sans-serif'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='mso-pagination:none;tab-stops:36.0pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
 mso-layout-grid-align:none;text-autospace:none'><span style='font-size:18.0pt;
-font-family:"Lucida Grande",sans-serif'>This version here is exclusively for
-macOS High Sierra and Mojave.<o:p></o:p></span></p>
+font-family:"Lucida Grande",sans-serif'>This version here is exclusively for <span
+class=SpellE>macOS</span> High Sierra and Mojave.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-pagination:none;tab-stops:36.0pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
 mso-layout-grid-align:none;text-autospace:none'><span style='font-size:18.0pt;
 font-family:"Lucida Grande",sans-serif'>Timbuktu Pro for older versions of Mac
 OS (10.12.6 and below) can be found here <a
-href="https://www.macintoshrepository.org/9201-timbuktu-pro-8-8-5"><span
-style='color:windowtext;text-decoration:none;text-underline:none'>https://www.macintoshrepository.org/9201-timbuktu-pro-8-8-5</span></a><o:p></o:p></span></p>
+href="https://www.macintoshrepository.org/9201-timbuktu-pro-8-8-5">https://www.macintoshrepository.org/9201-timbuktu-pro-8-8-5</a><o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-pagination:none;tab-stops:28.3pt 56.65pt 85.0pt 113.35pt 141.7pt 170.05pt 198.4pt 226.75pt 255.1pt 283.45pt 311.8pt 340.15pt;
 mso-layout-grid-align:none;text-autospace:none'><span style='font-size:14.0pt;
