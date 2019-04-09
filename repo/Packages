@@ -21,12 +21,13 @@ Maintainer: RossDarker <rossdark3r@gmail.com>
 Depends: firmware (>= 11.0)
 Architecture: iphoneos-arm
 Filename: Files//kk/kahootkiller.deb
-Size: 11433976
+Size: 11434012
 Installed-Size: 40786997
-MD5sum: 36f3b7b2f835609974a78744442c02a4
+MD5sum: e04e26c604af8f89297f09a53e87ce13
 Description: Spam bots at kahoot.
 Name: Kahoot Killer
-Author: Nash0, RossDarker
+Author: Nash0, notdanieldev, RossDarker
 Depiction: https://rossdarker.github.io/repo/Files/kk/index.html
+SileoDepiction: https://rossdarker.github.io/repo/Files/kk/sileo.json
 Icon: file:///Applications/KahootKiller.app/AppIcon60x60@2x.png
 
