@@ -74,7 +74,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.2-Ross",
+					"title": "1.2.1-Ross",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"

@@ -17,21 +17,21 @@ Icon: file:///Applications/MarbleBlastMobile.app/mbmIcon.png
 Name: Marble Blast Mobile
 
 Package: com.rossdarker.kahootkiller
-Version: 1.2-Ross
+Version: 1.2.1-Ross
 Architecture: iphoneos-arm
 Maintainer: RossDarker <rossdark3r@gmail.com>
 Installed-Size: 36497591
 Depends: firmware (>= 11.0)
 Filename: Files/kk/kahootkiller.deb
-Size: 9723600
-MD5sum: 2985eaa361993dc3e83f3c9713082d93
-SHA1: 8efe89234df6fe786c87d488b23e4d60b4610ed5
-SHA256: cd041067600aaaae2ecacd4085efe409f6d382d5cb9b831347b148cd8be774b0
+Size: 9723604
+MD5sum: b4a0d847c19e032b1e5c6e46cc2b5b7c
+SHA1: 2920e1987faa78fb17abb22c997d8bcfb1945a4d
+SHA256: 1ffca67cb6fce40ca1f4428c2dbd025635ab551cb0aa328affc49e43d8e2fefb
 Section: Games
 Description: Fill kahoots with bots.
 Author: Ross, Coronux, Nash0
 Depiction: https://rossdarker.github.io/repo/Files/kk/index.html
 Icon: file:///Applications/KahootKiller.app/AppIcon60x60@2x.png
 Name: Kahoot Killer
-Sileodepiction: https://rossdarker.github.io/repo/Files/kk/depiction_s
+Sileodepiction: https://rossdarker.github.io/repo/Files/kk/depiction.json
 
