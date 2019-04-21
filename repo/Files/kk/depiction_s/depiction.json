@@ -36,7 +36,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.1-Ross",
+					"text": "1.2-Ross",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -74,7 +74,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.1-Ross",
+					"title": "1.2-Ross",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
