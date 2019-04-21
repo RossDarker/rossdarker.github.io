@@ -1,0 +1,116 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://rossdarker.github.io/repo/Files/kk/screenshots/demo.png",
+	"tintColor": "#864cbf",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Kahoot Killer\nSpam bots at Kahoot which also answer the questions for you!"
+				},
+				{
+					"itemCornerRadius": 9,
+					"itemSize": "{187.5, 406}",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://rossdarker.github.io/repo/Files/kk/screenshots/app.png",
+							"fullSizeURL": "https://rossdarker.github.io/repo/Files/kk/screenshots/app.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://rossdarker.github.io/repo/Files/kk/screenshots/app2.png",
+							"fullSizeURL": "https://rossdarker.github.io/repo/Files/kk/screenshots/app2.png"
+						}
+					],
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.1-Ross",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "21/05/2019",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Ross, Coronux, Nash0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Website",
+					"action": "https://rossdarker.github.io",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.1-Ross",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Tidied up contents of app\t\n\u2022 Removed dylib from package",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21/05/2019</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class":"DepictionSeparatorView"}
+				},
+				{
+					"title": "1.0-Ross",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release\t\n\u2022 Sending themed bot names\t\n\u2022 Remove ads from original",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 09/03/2019</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
