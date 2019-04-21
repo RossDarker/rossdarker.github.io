@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Kahoot Killer\nSpam bots at Kahoot which also answer the questions for you!"
+					"markdown": "## Kahoot Killer\nSpam bots at kahoots which also answer the questions for you!"
 				},
 				{
 					"itemCornerRadius": 9,
