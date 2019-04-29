@@ -13,7 +13,7 @@ Section: Games
 Description: Marble Blast Mobile
 Author: GarageGames
 Depiction: https://rossdarker.github.io/repo/Files/marbleblast/index.html
-Icon: file:///Applications/MarbleBlastMobile.app/mbmIcon.png
+Icon: https://rossdarker.github.io/repo/Files/marbleblast/icon_s.png
 Name: Marble Blast Mobile
 
 Package: com.rossdarker.kahootkiller
@@ -28,10 +28,10 @@ MD5sum: b4a0d847c19e032b1e5c6e46cc2b5b7c
 SHA1: 2920e1987faa78fb17abb22c997d8bcfb1945a4d
 SHA256: 1ffca67cb6fce40ca1f4428c2dbd025635ab551cb0aa328affc49e43d8e2fefb
 Section: Games
-Description: Fill kahoots with bots.
+Description: Spam bots at kahoot.
 Author: Ross, Coronux, Nash0
 Depiction: https://rossdarker.github.io/repo/Files/kk/index.html
-Icon: file:///Applications/KahootKiller.app/AppIcon60x60@2x.png
+Icon: https://rossdarker.github.io/repo/Files/kk/icon_s.png
 Name: Kahoot Killer
 Sileodepiction: https://rossdarker.github.io/repo/Files/kk/depiction.json
 
