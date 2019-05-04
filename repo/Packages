@@ -13,23 +13,23 @@ Section: Games
 Description: Marble Blast Mobile
 Author: GarageGames
 Depiction: https://rossdarker.github.io/repo/Files/marbleblast/index.html
-Icon: https://rossdarker.github.io/repo/Files/marbleblast/icon_s.png
+Icon: file:///Applications/MarbleBlastMobile.app/mbmIcon.png
 Name: Marble Blast Mobile
 
 Package: com.rossdarker.kahootkiller
-Version: 1.2.1-Ross
+Version: 1.3-Ross
 Architecture: iphoneos-arm
 Maintainer: RossDarker <rossdark3r@gmail.com>
 Installed-Size: 36497591
 Depends: firmware (>= 11.0)
 Filename: Files/kk/kahootkiller.deb
-Size: 9723604
-MD5sum: b4a0d847c19e032b1e5c6e46cc2b5b7c
-SHA1: 2920e1987faa78fb17abb22c997d8bcfb1945a4d
-SHA256: 1ffca67cb6fce40ca1f4428c2dbd025635ab551cb0aa328affc49e43d8e2fefb
+Size: 9723640
+MD5sum: a2f33370cfdd8a81de29fa2429968d3a
+SHA1: fd5aa840514e7e81245fde50956e0275e8e399a7
+SHA256: a933732af5e753703b308b2af93733842fb32502504cfae481dac1f213c4e7bc
 Section: Games
 Description: Spam bots at kahoot.
-Author: Ross, Coronux, Nash0
+Author: Ross, Dan, Nash0
 Depiction: https://rossdarker.github.io/repo/Files/kk/index.html
 Icon: https://rossdarker.github.io/repo/Files/kk/icon_s.png
 Name: Kahoot Killer
