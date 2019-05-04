@@ -13,7 +13,7 @@ Section: Games
 Description: Marble Blast Mobile
 Author: GarageGames
 Depiction: https://rossdarker.github.io/repo/Files/marbleblast/index.html
-Icon: file:///Applications/MarbleBlastMobile.app/mbmIcon.png
+Icon: https://rossdarker.github.io/repo/Files/marbleblast/icon_s.png
 Name: Marble Blast Mobile
 
 Package: com.rossdarker.kahootkiller
