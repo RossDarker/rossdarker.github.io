@@ -17,16 +17,16 @@ Icon: https://rossdarker.github.io/repo/Files/marbleblast/icon_s.png
 Name: Marble Blast Mobile
 
 Package: com.rossdarker.kahootkiller
-Version: 1.3-Ross
+Version: 1.4.1-Ross
 Architecture: iphoneos-arm
 Maintainer: RossDarker <rossdark3r@gmail.com>
-Installed-Size: 36497591
+Installed-Size: 40802120
 Depends: firmware (>= 11.0)
 Filename: Files/kk/kahootkiller.deb
-Size: 9723640
-MD5sum: a2f33370cfdd8a81de29fa2429968d3a
-SHA1: fd5aa840514e7e81245fde50956e0275e8e399a7
-SHA256: a933732af5e753703b308b2af93733842fb32502504cfae481dac1f213c4e7bc
+Size: 10753208
+MD5sum: 0fbf2195720d174d65f18d9a50551537
+SHA1: ff0fa8aba6935c9e33a0b08899c404713e1106ee
+SHA256: caf7723600cbcfb78ae94cef1f9225c2417412fad86cf8ddf6640513147bccfe
 Section: Games
 Description: Spam bots at kahoot.
 Author: Ross, Dan, Nash0
