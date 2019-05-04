@@ -35,3 +35,19 @@ Icon: https://rossdarker.github.io/repo/Files/kk/icon_s.png
 Name: Kahoot Killer
 Sileodepiction: https://rossdarker.github.io/repo/Files/kk/depiction.json
 
+Package: com.rossdarker.kkmodule
+Version: 1.0-9+debug
+Architecture: iphoneos-arm
+Maintainer: RossDarker
+Installed-Size: 216
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
+Filename: Files/kk/kkmodule.deb
+Size: 29294
+MD5sum: 81e509cde1010644b67f4c30c12eccf4
+SHA1: 041c6e2ddbb43830bbd4e818ff3aab58442f2f46
+SHA256: acaeb4593fc96a3496de8c04190e968dc8a78d6825019603d0b08d87cb15ee79
+Section: Control Center (Modules)
+Description: Launch Kahoot Killer from the Control Center!
+Author: RossDarker
+Name: KahootKiller Module
+
