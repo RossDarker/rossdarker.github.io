@@ -36,16 +36,16 @@ Name: Kahoot Killer
 Sileodepiction: https://rossdarker.github.io/repo/Files/kk/depiction.json
 
 Package: com.rossdarker.kkmodule
-Version: 1.0-1+debug
+Version: 1.0-2+debug
 Architecture: iphoneos-arm
 Maintainer: RossDarker
 Installed-Size: 136
 Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
 Filename: Files/kk/kkmodule.deb
-Size: 11556
-MD5sum: 2e73ac00161eb99719c040e720ebb589
-SHA1: 9c1225883570fd49ed3d2a31c4c5aa13fe921414
-SHA256: cc36b199d3aaa61a80856511598de1df1d1067c687ed63d70d1613fe02a098eb
+Size: 12960
+MD5sum: 66bda3f1265af5840606490c76f011a7
+SHA1: 67fb7787dc6e87a2b35f774db5eb63e69fb2cf2d
+SHA256: a9d84f0d6dcc9f6d8d5b54726a3bee8833240737d65ec83fa0a09354436fcbe1
 Section: Control Center (Modules)
 Description: Launch Kahoot Killer from the Control Center!
 Author: RossDarker
