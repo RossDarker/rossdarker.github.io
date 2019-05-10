@@ -13,7 +13,7 @@ Section: Games
 Description: Marble Blast Mobile
 Author: GarageGames
 Depiction: https://rossdarker.github.io/repo/Files/marbleblast/index.html
-Icon: file:///Applications/MarbleBlastMobile.app/mbmIcon.png
+Icon: https://rossdarker.github.io/repo/Files/marbleblast/icon_s.png
 Name: Marble Blast Mobile
 
 Package: com.gilshahar7.pearlretry
@@ -34,16 +34,16 @@ Icon: https://repo.packix.com/api/Packages/5b25ea60850f400010646ff1/icon/downloa
 Name: PearlRetry
 
 Package: com.rossdarker.kahootkiller
-Version: 1.4.3-Ross
+Version: 1.4.1-Ross
 Architecture: iphoneos-arm
 Maintainer: RossDarker <rossdark3r@gmail.com>
 Installed-Size: 40802120
 Depends: firmware (>= 11.0)
 Filename: Files/kk/kahootkiller.deb
-Size: 10753290
-MD5sum: 9752a6be426a6ccf4aaf0c056702fe64
-SHA1: 5ef1533a3528f0325e73670f910a65f7152515e1
-SHA256: 8cea7e2d44b4d4425c97c04ac49c0a57fab2b4214984b52350382934991c3deb
+Size: 10753208
+MD5sum: 0fbf2195720d174d65f18d9a50551537
+SHA1: ff0fa8aba6935c9e33a0b08899c404713e1106ee
+SHA256: caf7723600cbcfb78ae94cef1f9225c2417412fad86cf8ddf6640513147bccfe
 Section: Games
 Description: Spam bots at kahoot.
 Author: Ross, Dan, Nash0
