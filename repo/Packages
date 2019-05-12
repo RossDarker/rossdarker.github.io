@@ -69,3 +69,20 @@ Author: RossDarker
 Icon: https://rossdarker.github.io/repo/Files/kk/kkmod.png
 Name: KahootKiller Module
 
+Package: com.rossdarker.sbrmodule
+Version: 1.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: RossDarker
+Installed-Size: 160
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: Files/sbr/sbreloadmodule.deb
+Size: 9724
+MD5sum: a0f8b6ffaf4985576a24e7c2d1cbd1a9
+SHA1: 5f6b4e2a7d2ca649890557f87035d8080dab7675
+SHA256: bbe8780a9f65da090c22050e460b97712db9087a091cbe76218210e592c10df7
+Section: Control Center (Modules)
+Description: CC Module to perform a quick respring
+Author: RossDarker
+Icon: https://rossdarker.github.io/repo/Files/sbr/icon_s.png
+Name: SBReload Module
+
