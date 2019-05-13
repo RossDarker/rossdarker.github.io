@@ -34,16 +34,16 @@ Icon: https://repo.packix.com/api/Packages/5b25ea60850f400010646ff1/icon/downloa
 Name: PearlRetry
 
 Package: com.rossdarker.kahootkiller
-Version: 1.4.7-Ross
+Version: 1.5-Ross
 Architecture: iphoneos-arm
 Maintainer: RossDarker <rossdark3r@gmail.com>
-Installed-Size: 40802120
+Installed-Size: 76417893
 Depends: firmware (>= 11.0)
 Filename: Files/kk/kahootkiller.deb
-Size: 10753482
-MD5sum: ec02f4b1d2018774239cab3a50ab5f44
-SHA1: 2aaccac4c2f8d85891ea147824d81cca60d2db82
-SHA256: ba8670c87a19ccf125c30e05419340c821d307720fd22191704b373bfd9f1a3d
+Size: 20066780
+MD5sum: 0ba4bc75be1db81086a51b9f5e0e7a69
+SHA1: 6f9fa1e61ab7129d7c400aade501666d5bf2336f
+SHA256: fc88fd93abf6956f47aca924d7a0609df8fcd3fe4d8b766ce9f0b1a015fd3613
 Section: Games
 Description: Spam bots at kahoot.
 Author: Ross, Dan, Nash0
