@@ -23,7 +23,7 @@ Architecture: iphoneos-arm
 Maintainer: gilshahar7
 Installed-Size: 308
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: Files/com.gilshahar7.pearlretry_1.0-Ross.deb
+Filename: Files/prt/com.gilshahar7.pearlretry_1.0-Ross.deb
 Size: 27308
 MD5sum: a614d2e62579a29fc3796b0654eb44b5
 SHA1: 4753169c59f99317cfddc18f448fc0c80cee9a45
@@ -69,6 +69,23 @@ Description: Launch Kahoot Killer from the Control Center!
 Author: RossDarker
 Icon: https://rossdarker.github.io/repo/Files/kk/kkmod.png
 Name: KahootKiller Module
+
+Package: com.rossdarker.ldrmodule
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RossDarker
+Installed-Size: 198221
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: Files/ldr/com.rossdarker.ldrmodule.deb
+Size: 14216
+MD5sum: c21597b1034b9978302cbe5e4c526da6
+SHA1: 62b4b67856d948e2b26afcc7410160e3dfa0192c
+SHA256: 0f6e0b48ac9720c1d7d686094d081a0691d73823f67dae73c20d6e4e94c246d5
+Section: Control Center (Modules)
+Description: CC Module to run ldrestart.
+Author: RossDarker
+Icon: https://rossdarker.github.io/repo/Files/ldr/icon_s.png
+Name: ldrestart Module
 
 Package: com.rossdarker.sbrmodule
 Version: 1.0-4+debug
