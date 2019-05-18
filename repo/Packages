@@ -34,6 +34,21 @@ Author: gilshahar7
 Icon: https://repo.packix.com/api/Packages/5b25ea60850f400010646ff1/icon/download?size=medium&hash=2
 Name: PearlRetry
 
+Package: com.midnightchips.ldRun
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Depends: firmware (>= 11.0)
+Filename: Files/ldr/ldrun.deb
+Size: 2656
+MD5sum: 15a13afed3e2b393fb3b51bbddc1efbd
+SHA1: ffbda9d5ca9044371bffc15ddcb7fc5039db92b4
+SHA256: 2805444bbfd79749acfd0bbd22ac7301e5080673dba0b0b09cbeeae8289a467e
+Section: System
+Description: A binary to run ldrestart as root.
+Author: MidnightChips
+Name: ldRun
+
 Package: com.rossdarker.kahootkiller
 Version: 1.5-Ross
 Architecture: iphoneos-arm
@@ -69,22 +84,6 @@ Description: Launch Kahoot Killer from the Control Center!
 Author: RossDarker
 Icon: https://rossdarker.github.io/repo/Files/kk/kkmod.png
 Name: KahootKiller Module
-
-Package: com.rossdarker.ldrun
-Version: 0.0.1-Ross
-Architecture: iphoneos-arm
-Maintainer: MidnightChips
-Depends: firmware (>= 11.0)
-Conflicts: com.midnightchips.ldrun
-Filename: Files/ldr/ldrun.deb
-Size: 3006
-MD5sum: 948fb17b7bfae8afbe7048ed0848939b
-SHA1: 0b0c9c3deaf7105fd731db6ad0b298e6858e6bcc
-SHA256: ec4387fb760e82722f5121578a62c04e7a3f83daa1673ef984f68e9d2f11dbbb
-Section: System
-Description: A binary to run ldrestart as root.
-Author: Ross, MidnightChips
-Name: ldRun
 
 Package: com.rossdarker.sbrmodule
 Version: 1.0-4+debug
