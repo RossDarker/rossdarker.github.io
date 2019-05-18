@@ -70,6 +70,21 @@ Author: RossDarker
 Icon: https://rossdarker.github.io/repo/Files/kk/kkmod.png
 Name: KahootKiller Module
 
+Package: com.rossdarker.ldrun
+Version: 0.0.1-Ross
+Architecture: iphoneos-arm
+Maintainer: MidnightChips
+Depends: firmware (>= 11.0)
+Filename: Files/ldr/ldrun.deb
+Size: 2990
+MD5sum: 03944e2168998d2b9f96303da27155cc
+SHA1: f1bd1764d6282411728d16f3e66b0faaa84d1e30
+SHA256: c935e6065b3c0ed5c348aa494dae312a80aa73e0a7611bef04023d6e9a745091
+Section: System
+Description: A binary to run ldrestart as root.
+Author: Ross, MidnightChips
+Name: ldRun
+
 Package: com.rossdarker.sbrmodule
 Version: 1.0-4+debug
 Architecture: iphoneos-arm
