@@ -34,21 +34,6 @@ Author: gilshahar7
 Icon: https://repo.packix.com/api/Packages/5b25ea60850f400010646ff1/icon/download?size=medium&hash=2
 Name: PearlRetry
 
-Package: com.midnightchips.ldRun
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: MidnightChips
-Depends: firmware (>= 11.0)
-Filename: Files/ldr/ldrun.deb
-Size: 2656
-MD5sum: 15a13afed3e2b393fb3b51bbddc1efbd
-SHA1: ffbda9d5ca9044371bffc15ddcb7fc5039db92b4
-SHA256: 2805444bbfd79749acfd0bbd22ac7301e5080673dba0b0b09cbeeae8289a467e
-Section: System
-Description: A binary to run ldrestart as root.
-Author: MidnightChips
-Name: ldRun
-
 Package: com.rossdarker.kahootkiller
 Version: 1.5-Ross
 Architecture: iphoneos-arm
