@@ -34,6 +34,23 @@ Author: gilshahar7
 Icon: https://repo.packix.com/api/Packages/5b25ea60850f400010646ff1/icon/download?size=medium&hash=2
 Name: PearlRetry
 
+Package: com.rossdarker.deafen
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RossDarker
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: Files/dfn/com.rossdarker.deafen.deb
+Size: 5346
+MD5sum: bb4e49fffc1a44879ce74db792a527f4
+SHA1: 1b65673094f70368fe03e40ac4576d7608d5a19b
+SHA256: b3f41bcba3497a93e3f8224074f6331678027a73329541d11abf75fa7eac926b
+Section: Tweaks
+Description: Disables screen waking up on high volume.
+Author: RossDarker
+Icon: https://rossdarker.github.io/repo/Files/dfn/com.rthakrar.deafen.png
+Name: Deafen
+
 Package: com.rossdarker.kahootkiller
 Version: 1.6-Ross
 Architecture: iphoneos-arm
