@@ -1,3 +1,17 @@
+Package: com.dylanaraps.neofetch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: RossDarker
+Filename: Files/nfh/neofetch.deb
+Size: 74214
+MD5sum: f18a027a11bf49bc9278a0bc626d9e24
+SHA1: 73f93519156c4dc278deaed4ec28ce0579e7a243
+SHA256: 84535671a49ac5339fba7f2a545f84bc0dcd06ff9a238a656afdc658c4cc9f5d
+Section: System
+Description: A command-line system information tool written in bash 3.2+
+Author: dylanaraps
+Name: neofetch
+
 Package: com.garagegames.marbleblastmobile
 Version: 1.2
 Architecture: iphoneos-arm
