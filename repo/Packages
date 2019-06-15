@@ -135,3 +135,21 @@ Author: RossDarker
 Icon: https://rossdarker.github.io/repo/Files/sbr/icon_s.png
 Name: SBReload Module
 
+Package: tk.oceantweak.ocean
+Version: 0.1.4-1
+Architecture: iphoneos-arm
+Maintainer: webmaster@localhost.com
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Filename: Files/ocn/tk.oceantweak.ocean_0.1.4-1_iphoneos-arm.deb
+Size: 278390
+MD5sum: 8377bbd3ed0cfd6026ef6cb648c04112
+SHA1: 95148fa72ca12c40baf5df4aa35f9892922680d0
+SHA256: bf48136a8bbd205fbb7f825361b759076bfd65f53cc0baca164732722a409a9f
+Section: Tweaks
+Description: Supercharge Sileo with Ocean
+Author: TeamOcean
+Depiction: https://oceantweak.tk/repo/depictions/Ocean
+Icon: file:///Library/PreferenceBundles/oceanprefs.bundle/icon-large.png
+Name: Ocean
+
