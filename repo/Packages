@@ -102,33 +102,33 @@ Icon: https://rossdarker.github.io/repo/Files/kk/kkmod.png
 Name: KahootKiller Module
 
 Package: com.rossdarker.ldrmodule
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: RossDarker
-Installed-Size: 198221
+Installed-Size: 220
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: Files/ldr/com.rossdarker.ldrmodule.deb
-Size: 14216
-MD5sum: c21597b1034b9978302cbe5e4c526da6
-SHA1: 62b4b67856d948e2b26afcc7410160e3dfa0192c
-SHA256: 0f6e0b48ac9720c1d7d686094d081a0691d73823f67dae73c20d6e4e94c246d5
+Size: 11716
+MD5sum: 9c519307cc1daa25237fbe8f61802309
+SHA1: 9f28e55dd515ce129c636d9e30e714af91274e03
+SHA256: f3e105937decdb67af42203b4baa5d2435a020a5087823380103817a09298e57
 Section: Control Center (Modules)
-Description: CC Module to run ldrestart.
+Description: CC Module to run ldrestart
 Author: RossDarker
 Icon: https://rossdarker.github.io/repo/Files/ldr/icon_s.png
 Name: ldrestart Module
 
 Package: com.rossdarker.sbrmodule
-Version: 1.0-4+debug
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: RossDarker
 Installed-Size: 160
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: Files/sbr/sbreloadmodule.deb
-Size: 9724
-MD5sum: a0f8b6ffaf4985576a24e7c2d1cbd1a9
-SHA1: 5f6b4e2a7d2ca649890557f87035d8080dab7675
-SHA256: bbe8780a9f65da090c22050e460b97712db9087a091cbe76218210e592c10df7
+Size: 9184
+MD5sum: 521a371ddaae77da2f92c0ad32755095
+SHA1: ccdf3d6dc0a1ddd9a07bb1db5ce3ead680dd8f38
+SHA256: 001011a2022e74cd6edc4c507597211f7d36d1761ca46fac998d0cafe2241967
 Section: Control Center (Modules)
 Description: CC Module to perform a quick respring
 Author: RossDarker
