@@ -13,16 +13,16 @@ Author: dylanaraps
 Name: neofetch
 
 Package: com.garagegames.marbleblastmobile
-Version: 1.2
+Version: 1.2-2
 Architecture: iphoneos-arm
 Maintainer: RossDarker
 Installed-Size: 32830947
-Depends: firmware (>= 2.2.1), firmware (<= 10.3.3)
+Depends: firmware (>= 2.2.1), firmware (<= 10.3.4)
 Filename: Files/marbleblast/marbleblast.deb
-Size: 15199722
-MD5sum: 9728333e7b0007c675266f54c4049872
-SHA1: 519131f02045af03a6aaa01a8db4c7ab4023a52b
-SHA256: 7354c200e52feb2384948360dbe976cd4bba3105d75679162fa1464e75f55e7a
+Size: 15199696
+MD5sum: 5ddeba82bd51e44d4c805d7abc3996b0
+SHA1: c044d59fc0877629a0f5c480efd2ee63835720be
+SHA256: e1775573420cb81924cb2f03b39af7bbcdfb89a65cf2c2327ea78351923ea7fe
 Section: Games
 Description: Marble Blast Mobile
 Author: GarageGames
