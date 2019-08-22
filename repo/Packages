@@ -159,14 +159,13 @@ Maintainer: RossDarker <rossdark3r@gmail.com>
 Installed-Size: 270400
 Depends: firmware (>= 11.0)
 Filename: Files/gsd/gsed_4.7_iphoneos-arm.deb
-Size: 112706
-MD5sum: 514a0d508523b076e4e6217928434fc0
-SHA1: a3b6d642e228c371b23e3e290e5327cd5028aa4f
-SHA256: 0f6ff0d9575a56cab2f8a92eb07dc634aa0f8ba5c578359ea2453b5fbcb05890
+Size: 110880
+MD5sum: f618d828b96f1790c658d6a0c817147e
+SHA1: 2b830b752cd2ca0241aa2cafdd91e45df7862ea0
+SHA256: 5b58b3691ed218c49acb956728ba42f17e1866735d12b9ffe6e2380f5ade33b1
 Section: System
 Priority: optional
 Description: minimalistic interactive raw editor
- hexadecimal editor similar to radare but in less than 500LOC
 Name: gsed
 
 Package: tk.oceantweak.ocean
