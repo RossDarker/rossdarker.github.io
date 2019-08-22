@@ -152,23 +152,6 @@ Author: RossDarker
 Icon: https://rossdarker.github.io/repo/Files/sbr/icon_s.png
 Name: SBReload Module
 
-Package: gsed
-Version: 4.7
-Architecture: iphoneos-arm
-Maintainer: RossDarker <rossdark3r@gmail.com>
-Installed-Size: 270400
-Depends: firmware (>= 11.0)
-Filename: Files/gsd/gsed_4.7_iphoneos-arm.deb
-Size: 112706
-MD5sum: 514a0d508523b076e4e6217928434fc0
-SHA1: a3b6d642e228c371b23e3e290e5327cd5028aa4f
-SHA256: 0f6ff0d9575a56cab2f8a92eb07dc634aa0f8ba5c578359ea2453b5fbcb05890
-Section: System
-Priority: optional
-Description: minimalistic interactive raw editor
- hexadecimal editor similar to radare but in less than 500LOC
-Name: gsed
-
 Package: tk.oceantweak.ocean
 Version: 0.1.4-1
 Architecture: iphoneos-arm
