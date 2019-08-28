@@ -158,7 +158,7 @@ Architecture: iphoneos-arm
 Maintainer: RossDarker <rossdark3r@gmail.com>
 Installed-Size: 270400
 Depends: firmware (>= 11.0)
-Filename: Files/gsd/gsed_4.7_iphoneos-arm.deb
+Filename: Files/gsed_4.7_iphoneos-arm.deb
 Size: 110880
 MD5sum: f618d828b96f1790c658d6a0c817147e
 SHA1: 2b830b752cd2ca0241aa2cafdd91e45df7862ea0
