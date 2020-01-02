@@ -70,12 +70,12 @@ Version: 1.6-Ross
 Architecture: iphoneos-arm
 Maintainer: RossDarker <rossdark3r@gmail.com>
 Installed-Size: 76596614
-Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.11)
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.11), firmware (<= 12.4)
 Filename: Files/kk/kahootkiller.deb
-Size: 20105306
-MD5sum: 4c848cdf898b330e412f90938133e862
-SHA1: 2d9fdca14594f53ba5920f27e96b1541553e7c89
-SHA256: da3d467e00d4aa6dd9a20c5472aff6c41903a532b6f34be8fd87a5885ed9ae11
+Size: 20105314
+MD5sum: 6bc7cac22f1fd69aa0fbdbae9a49d47c
+SHA1: 1fb5d328fdf0f0ce937eb3bd4718d898c8884318
+SHA256: b608ae6e0752e989cc0e0e9a533014b6b97d327354fc848a1271776c7c3abd36
 Section: Games
 Description: Spam bots at kahoot.
 Author: Ross, Dan, Nash0
