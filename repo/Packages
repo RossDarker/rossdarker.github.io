@@ -65,42 +65,6 @@ Author: RossDarker
 Icon: https://rossdarker.github.io/repo/Files/dfn/com.rthakrar.deafen.png
 Name: Deafen
 
-Package: com.rossdarker.kahootkiller
-Version: 1.6-Ross
-Architecture: iphoneos-arm
-Maintainer: RossDarker <rossdark3r@gmail.com>
-Installed-Size: 76596614
-Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common (>= 1.11), firmware (<= 12.4)
-Filename: Files/kk/kahootkiller.deb
-Size: 20105314
-MD5sum: 6bc7cac22f1fd69aa0fbdbae9a49d47c
-SHA1: 1fb5d328fdf0f0ce937eb3bd4718d898c8884318
-SHA256: b608ae6e0752e989cc0e0e9a533014b6b97d327354fc848a1271776c7c3abd36
-Section: Games
-Description: Spam bots at kahoot.
-Author: Ross, Dan, Nash0
-Depiction: https://rossdarker.github.io/repo/Files/kk/index.html
-Icon: https://rossdarker.github.io/repo/Files/kk/icon_s.png
-Name: Kahoot Killer
-Sileodepiction: https://rossdarker.github.io/repo/Files/kk/depiction.json
-
-Package: com.rossdarker.kkmodule
-Version: 1.0-2+debug
-Architecture: iphoneos-arm
-Maintainer: RossDarker
-Installed-Size: 136
-Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
-Filename: Files/kk/kkmodule.deb
-Size: 12960
-MD5sum: 66bda3f1265af5840606490c76f011a7
-SHA1: 67fb7787dc6e87a2b35f774db5eb63e69fb2cf2d
-SHA256: a9d84f0d6dcc9f6d8d5b54726a3bee8833240737d65ec83fa0a09354436fcbe1
-Section: Control Center (Modules)
-Description: Launch Kahoot Killer from the Control Center!
-Author: RossDarker
-Icon: https://rossdarker.github.io/repo/Files/kk/kkmod.png
-Name: KahootKiller Module
-
 Package: com.rossdarker.ldrmodule
 Version: 1.1
 Architecture: iphoneos-arm
