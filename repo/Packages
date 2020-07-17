@@ -31,17 +31,18 @@ Icon: https://rossdarker.github.io/repo/Files/marbleblast/icon_s.png
 Name: Marble Blast Mobile
 Sileodepiction: https://rossdarker.github.io/repo/Files/marbleblast/depiction.json
 
-Package: com.gilshahar7.pearlretry
+Package: com.gilshahar7.pearlretry-ross
 Version: 1.0-Ross
 Architecture: iphoneos-arm
-Maintainer: gilshahar7
+Maintainer: RossDarker
 Installed-Size: 308
 Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.gilshahar7.pearlretry
 Filename: Files/prt/com.gilshahar7.pearlretry_1.0-Ross.deb
-Size: 27308
-MD5sum: a614d2e62579a29fc3796b0654eb44b5
-SHA1: 4753169c59f99317cfddc18f448fc0c80cee9a45
-SHA256: 969322e74b92de18a1aca9849cd25ac99980419d8d53bfff7c13619067307525
+Size: 20760
+MD5sum: d77f7e0c4d66997956a18e911d0cc08c
+SHA1: 65938c9509ea664b154fb413752f1e84db50f66f
+SHA256: f679b396e8be81ab851e6b579382d67d2506c8898354d7152618ebe600be8d86
 Section: Tweaks
 Description: Retry FaceID when failed to recognize. Updated for arm64e (A12) devices.
 Author: gilshahar7
