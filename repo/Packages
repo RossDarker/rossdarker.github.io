@@ -83,23 +83,6 @@ Author: RossDarker
 Icon: https://rossdarker.github.io/repo/Files/ldr/icon_s.png
 Name: ldrestart Module
 
-Package: com.rossdarker.rocketnoads
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: RossDarker
-Installed-Size: 56
-Depends: mobilesubstrate
-Filename: Files/rna/rocketnoads.deb
-Size: 2016
-MD5sum: bafab7ef27d0da755cb4a6d4af6c4143
-SHA1: ca5009ed58290d00dacf14c314884983a8e98c34
-SHA256: 164e13315b72ff0290328e132609c3a497f86c805114cabe4602a99c2cc0f600
-Section: Tweaks
-Description: Hide the banner ad in Rocket for Instagram
-Author: RossDarker
-Icon: https://rossdarker.github.io/repo/Files/rna/icon_s.png
-Name: Rocket No Ads
-
 Package: com.rossdarker.sbrmodule
 Version: 1.1
 Architecture: iphoneos-arm
