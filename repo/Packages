@@ -1,24 +1,10 @@
-Package: com.dylanaraps.neofetch
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: RossDarker
-Filename: Files/nfh/neofetch.deb
-Size: 74214
-MD5sum: f18a027a11bf49bc9278a0bc626d9e24
-SHA1: 73f93519156c4dc278deaed4ec28ce0579e7a243
-SHA256: 84535671a49ac5339fba7f2a545f84bc0dcd06ff9a238a656afdc658c4cc9f5d
-Section: System
-Description: A command-line system information tool written in bash 3.2+
-Author: dylanaraps
-Name: neofetch
-
 Package: com.garagegames.marbleblastmobile
 Version: 1.2-2
 Architecture: iphoneos-arm
 Maintainer: RossDarker
 Installed-Size: 32830947
 Depends: firmware (>= 2.2.1), firmware (<= 10.3.4)
-Filename: Files/marbleblast/marbleblast.deb
+Filename: ./Files/marbleblast/marbleblast.deb
 Size: 15199696
 MD5sum: 5ddeba82bd51e44d4c805d7abc3996b0
 SHA1: c044d59fc0877629a0f5c480efd2ee63835720be
@@ -29,25 +15,7 @@ Author: GarageGames
 Depiction: https://rossdarker.github.io/repo/Files/marbleblast/index.html
 Icon: https://rossdarker.github.io/repo/Files/marbleblast/icon_s.png
 Name: Marble Blast Mobile
-Sileodepiction: https://rossdarker.github.io/repo/Files/marbleblast/depiction.json
-
-Package: com.gilshahar7.pearlretry-ross
-Version: 1.0-Ross
-Architecture: iphoneos-arm
-Maintainer: RossDarker
-Installed-Size: 308
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: com.gilshahar7.pearlretry
-Filename: Files/prt/com.gilshahar7.pearlretry_1.0-Ross.deb
-Size: 20760
-MD5sum: d77f7e0c4d66997956a18e911d0cc08c
-SHA1: 65938c9509ea664b154fb413752f1e84db50f66f
-SHA256: f679b396e8be81ab851e6b579382d67d2506c8898354d7152618ebe600be8d86
-Section: Tweaks
-Description: Retry FaceID when failed to recognize. Updated for arm64e (A12) devices.
-Author: gilshahar7
-Icon: https://repo.packix.com/api/Packages/5b25ea60850f400010646ff1/icon/download?size=medium&hash=2
-Name: PearlRetry
+SileoDepiction: https://rossdarker.github.io/repo/Files/marbleblast/depiction.json
 
 Package: com.rossdarker.deafen
 Version: 1.0
@@ -55,7 +23,7 @@ Architecture: iphoneos-arm
 Maintainer: RossDarker
 Installed-Size: 152
 Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: Files/dfn/com.rossdarker.deafen.deb
+Filename: ./Files/dfn/com.rossdarker.deafen.deb
 Size: 5346
 MD5sum: bb4e49fffc1a44879ce74db792a527f4
 SHA1: 1b65673094f70368fe03e40ac4576d7608d5a19b
@@ -72,7 +40,7 @@ Architecture: iphoneos-arm
 Maintainer: RossDarker
 Installed-Size: 220
 Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: Files/ldr/com.rossdarker.ldrmodule.deb
+Filename: ./Files/ldr/com.rossdarker.ldrmodule.deb
 Size: 11716
 MD5sum: 9c519307cc1daa25237fbe8f61802309
 SHA1: 9f28e55dd515ce129c636d9e30e714af91274e03
@@ -89,7 +57,7 @@ Architecture: iphoneos-arm
 Maintainer: RossDarker
 Installed-Size: 160
 Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: Files/sbr/sbreloadmodule.deb
+Filename: ./Files/sbr/sbreloadmodule.deb
 Size: 9184
 MD5sum: 521a371ddaae77da2f92c0ad32755095
 SHA1: ccdf3d6dc0a1ddd9a07bb1db5ce3ead680dd8f38
@@ -100,19 +68,19 @@ Author: RossDarker
 Icon: https://rossdarker.github.io/repo/Files/sbr/icon_s.png
 Name: SBReload Module
 
-Package: gsed
-Version: 4.7
-Architecture: iphoneos-arm
-Maintainer: RossDarker <rossdark3r@gmail.com>
-Installed-Size: 270400
-Depends: firmware (>= 11.0)
-Filename: Files/gsd/gsed_4.7_iphoneos-arm.deb
-Size: 110880
-MD5sum: f618d828b96f1790c658d6a0c817147e
-SHA1: 2b830b752cd2ca0241aa2cafdd91e45df7862ea0
-SHA256: 5b58b3691ed218c49acb956728ba42f17e1866735d12b9ffe6e2380f5ade33b1
-Section: System
-Priority: optional
-Description: minimalistic interactive raw editor
-Name: gsed
+Package: com.shepgoba.nightshiftmodule
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: shepgoba
+Installed-Size: 112
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./Files/nightshiftmodule/com.shepgoba.nightshiftmodule_1.1_iphoneos-arm64.deb
+Size: 15820
+MD5sum: c5579b1785bdfe3ece6803495f1b77cb
+SHA1: 81884263b0009d1e49a3cf33652670f97a774012
+SHA256: 7c4cb9be8ff13f9dd419fb539ebf9e8f395008feaae557a4a08b5100a1bc0ed5
+Section: Control Center (Modules)
+Description: Change Night Shift from the control center.
+Author: shepgoba
+Name: Night Shift Module
 
